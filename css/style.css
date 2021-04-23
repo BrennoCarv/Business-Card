@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cartao {
+    margin-top: 100px;
+    display: block;
+    border: solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(../imagens/backgorund.png);
+    height: 380px;
+    width: 700px;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.instagram {
+    list-style-image: url(../imagens/icons8-instagram-100.png);
+    list-style-position: inside;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.github {
+    list-style-image: url(../imagens/icons8-github-100.png);
+    list-style-position: inside;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.linkedin {
+    list-style-image: url(../imagens/icons8-linkedin-100.png);
+    list-style-position: inside;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.nome {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
